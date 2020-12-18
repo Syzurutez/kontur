@@ -408,6 +408,7 @@ li {
 	.main__products-count-number input {
 		border: none;
 		outline: none;
+		background-color: #fff;
 	}
 	.main__products-count-basket {
 		padding: 12px 26px 10px;
